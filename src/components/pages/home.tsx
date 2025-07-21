@@ -330,8 +330,8 @@ export default function LandingPage() {
                     ))}
                   </div>
                   <div className="text-sm text-gray-600">
-                    <span className="font-medium text-green-700">10,000+</span>{" "}
-                    happy customer using ChefAI
+                    {/* <span className="font-medium text-green-700">10,000+</span>{" "}
+                    happy customer using ChefAI */}
                   </div>
                 </div>
               </div>
